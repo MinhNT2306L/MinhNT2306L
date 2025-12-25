@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=50)
 
 > 📍 **Student** based in Ha Noi, Vietnam  
-> 🌱 Learning **C#, .NET, Java, PHP** > 🔭 Working on **School Projects** > 📫 Contact: **minhnt2306l@example.com**
+> 🌱 Learning **C#, .NET, Java, PHP** > 🔭 Working on **School Projects** > 📫 Contact: **nguyenthanhminh12341234@gmail.com**
 
 ---
 
@@ -18,9 +18,4 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinhNT2306L&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNT2306L&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
-![Snake](https://github.com/MinhNT2306L/MinhNT2306L/blob/output/github-contribution-grid-snake.svg)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=MinhNT2306L&color=blue&style=flat-square&label=Views)
