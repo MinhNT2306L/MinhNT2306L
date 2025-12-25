@@ -1,21 +1,58 @@
-### 👋 Hi there, I'm Minh!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Minh&fontSize=80&animation=fadeIn" width="100%" />
+</div>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=50)
+# Hi there, I'm Minh! �
 
-> 📍 **Student** based in Ha Noi, Vietnam  
-> 🌱 Learning **C#, .NET, Java, PHP** > 🔭 Working on **School Projects** > 📫 Contact: **nguyenthanhminh12341234@gmail.com**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student;Learning+C%23%2C+Java%2C+PHP;Building+School+Projects;Always+coding" alt="Typing SVG" />
+</p>
+
+## 🚀 About Me
+
+I am a passionate student and aspiring backend developer, currently focused on building school projects and expanding my technical toolkit.
+
+- 🔭 I’m currently working on **School Projects**
+- 🌱 I’m currently learning **C#, .NET, Java Spring**
+- � I’m looking to collaborate on **Open Source Projects**
+- 🎯 Goal: **Become a better backend developer**
+- 📫 How to reach me: **nguyenthanhminh12341234@gmail.com**
+
+<p align="center">
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/MinhNT2306L"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-### 🛠️ Languages & Tools
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,java,php,html,css,js,mysql,git,vscode,idea" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=MinhNT2306L&show_icons=true&theme=tokyonight&hide_border=true" alt="Minh's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNT2306L&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
