@@ -1,71 +1,26 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20World&fontSize=50&fontAlign=50" width="100%"/>
-</div>
+### 👋 Hi there, I'm Minh!
 
-<br/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=50)
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="center">
-      <h2>👋 Hi there, I'm Minh!</h2>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=239120&width=520&lines=I'm+a+Student;Learning+C%23%2C+Java%2C+PHP;Building+School+Projects;Always+coding+%F0%9F%92%BB" alt="Typing SVG" />
-      </a>
+> 📍 **Student** based in Ha Noi, Vietnam  
+> 🌱 Learning **C#, .NET, Java, PHP** > 🔭 Working on **School Projects** > 📫 Contact: **minhnt2306l@example.com**
 
-      <br/><br/>
+---
 
-      <ul>
-        <li>🔭 I’m currently working on <b>School Projects</b></li>
-        <li>🌱 I’m currently learning <b>C#, .NET, Java Spring</b></li>
-        <li>👯 I’m looking to collaborate on <b>Open Source Projects</b></li>
-        <li>🎯 Goal: <b>Become a better backend developer</b></li>
-        <li>📫 Contact me: <b>minhnt2306l@example.com</b></li>
-      </ul>
+### 🛠️ Languages & Tools
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-      <p>
-        <a href="https://facebook.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-        </a>
-        <a href="https://www.linkedin.com/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        <a href="https://github.com/MinhNT2306L" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
+---
 
-    <td width="40%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif"/>
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinhNT2306L&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNT2306L&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
-<br/>
+![Snake](https://github.com/MinhNT2306L/MinhNT2306L/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,php,html,css,js,mysql,git,vscode,idea&perline=10" />
-</div>
-
-<br/>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MinhNT2306L&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNT2306L&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=MinhNT2306L&color=blue&style=flat-square&label=Views)
