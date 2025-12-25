@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Minh&fontSize=80&animation=fadeIn" width="100%" />
 </div>
 
-# Hi there, I'm Minh! �
+# Hi there, I'm Minh! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student;Learning+C%23%2C+Java%2C+PHP;Building+School+Projects;Always+coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student;Learning+C%23%2C+Python%2C+Java%2C+PHP;Building+School+Projects;Always+coding" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
@@ -13,8 +13,8 @@
 I am a passionate student and aspiring backend developer, currently focused on building school projects and expanding my technical toolkit.
 
 - 🔭 I’m currently working on **School Projects**
-- 🌱 I’m currently learning **C#, .NET, Java Spring**
-- � I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently learning **C#, Python, .NET, Java Spring**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 - 🎯 Goal: **Become a better backend developer**
 - 📫 How to reach me: **nguyenthanhminh12341234@gmail.com**
 
@@ -30,7 +30,7 @@ I am a passionate student and aspiring backend developer, currently focused on b
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,php,html,css,js,mysql,git,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=c,cs,python,java,php,html,css,js,mysql,git,vscode,idea" />
   </a>
 </p>
 
@@ -38,18 +38,11 @@ I am a passionate student and aspiring backend developer, currently focused on b
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MinhNT2306L&show_icons=true&theme=tokyonight&hide_border=true" alt="Minh's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNT2306L&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhNT2306L&show_icons=true&theme=tokyonight&hide_border=true" alt="Minh's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNT2306L&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
