@@ -10,12 +10,11 @@
 
 ## 🚀 About Me
 
-I am a developer with a strong foundation in **Software Engineering**, now navigating the vast ocean of **Information Assurance**. I believe that to break a system, you must first understand how to build it perfectly.
-
-- 💻 **Core Proficiency:** I have solid experience in **Java** and **C#**, demonstrated through building complex systems like **[eProject (PHP)](https://github.com/MinhNT2306L/eProject)** and **[eProject2 (Java)](https://github.com/MinhNT2306L/eProject2)**.
+I am a developer with a foundation in **Software Engineering**, now navigating the vast ocean of **Information Assurance**.
+- 💻 **Core Proficiency:** I have few experience in **Java** and **C#**, demonstrated through building systems like **[eProject (PHP)](https://github.com/MinhNT2306L/eProject)** and **[eProject2 (Java)](https://github.com/MinhNT2306L/eProject2)**.
 - 🌐 **Web Technologies:** Experienced in building full-stack applications with **HTML, CSS, JavaScript (JSON)** and **PHP**.
 - 🗄️ **Database:** Proficient in designing schemas and querying **MySQL** databases.
-- 🔭 **Current Focus:** Researching **Information Assurance (IA)** fundamentals, Cryptography, and Secure Coding standards.
+- 🔭 **Current Focus:** Researching **Information Assurance (IA)** fundamentals, Cryptography, and Secure Coding standards (interested in **RE**).
 - 🎯 **Goal:** **To fuse my software engineering expertise with advanced cybersecurity skills, becoming a versatile Security Engineer capable of both architecting secure systems and uncovering hidden vulnerabilities.**
 - 📫 Contact me: **nguyenthanhminh12341234@gmail.com**
 
