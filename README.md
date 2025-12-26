@@ -28,7 +28,7 @@ I am a developer with a foundation in **Software Engineering**, now navigating t
 
 ## 🛠️ The Arsenal
 
-**💻 Backend & Core (My Mainstay):**
+**💻 Backend & Core:**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,php,dotnet" />
